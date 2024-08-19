@@ -30,7 +30,7 @@ Start page
 <br>
 <br><img width="1512" alt="Skärmavbild 2024-08-19 kl  15 13 46" src="https://github.com/user-attachments/assets/8976e943-5587-410f-9e77-31df13ae771c">
 <br>
-Inside a notice
+Creating a notice
 <br>
 <br>
 <img width="1512" alt="Skärmavbild 2024-08-19 kl  15 04 41" src="https://github.com/user-attachments/assets/4d4dd90e-82eb-453f-9b4e-175e2d68bfac">
